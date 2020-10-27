@@ -12,5 +12,3 @@
 [`MIT`](https://github.com/KakaoTalkBotOrganization/Official-Bot/blob/master/LICENSE) license.
 
 # Happy Coding :)
-
-### Written by [SungBin](https://github.com/sungbin5304)
