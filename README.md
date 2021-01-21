@@ -11,6 +11,8 @@
 # License
 [`MIT`](https://github.com/KakaoTalkBotOrganization/Official-Bot/blob/master/LICENSE) license.
 
+### [goto cafe](https://cafe.naver.com/nameyee)
+
 # Coming soon!
 
 # Happy Coding :)
