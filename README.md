@@ -11,4 +11,6 @@
 # License
 [`MIT`](https://github.com/KakaoTalkBotOrganization/Official-Bot/blob/master/LICENSE) license.
 
+# Coming soon!
+
 # Happy Coding :)
